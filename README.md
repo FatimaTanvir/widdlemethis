@@ -2,7 +2,7 @@
 
 WiddleMeThis is a fun and interactive emoji flashcard game that challenges your brain to decode hidden meanings behind emoji combinations. 
 
-![Walkthrough of the app](./demo.gif)
+![Walkthrough of the app](https://github.com/FatimaTanvir/widdlemethis/blob/master/public/demo.gif)
 
 ---
 ## Tech Stack
